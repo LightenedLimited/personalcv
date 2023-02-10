@@ -125,7 +125,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'TypeScript', 'React', 'Eleventy', 'Node.js', 'WordPress'];
+  const skills = ['Python', 'C++', 'Tensorflow', 'PyTorch', 'React', 'SQL'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -135,30 +135,26 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Brittany and I enjoy creating things that live on the internet. My
-              interest in web development started back in 2012 when I decided to try editing custom
-              Tumblr themes — turns out hacking together a custom reblog button taught me a lot
-              about HTML &amp; CSS!
+              Hello! My name is Anh, but I go by Alex and I like to create intelligent systems. Back in
+              2017, I tried to build my first intelligent system: an automatic plant waterer using computer
+              vision. After a month of laboring over this project, I set the water pressure too high 
+              during a test and broke the plant's pot. 
             </p>
-
             <p>
               Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://us.mullenlowe.com/">an advertising agency</a>,{' '}
-              <a href="https://starry.com/">a start-up</a>,{' '}
-              <a href="https://www.apple.com/">a huge corporation</a>, and{' '}
-              <a href="https://scout.camd.northeastern.edu/">a student-led design studio</a>. My
-              main focus these days is building accessible, inclusive products and digital
-              experiences at <a href="https://upstatement.com/">Upstatement</a> for a variety of
-              clients.
+              <a href="https://vtcc.vn/">an AI R&D lab</a>,{' '}
+              <a href="https://www.thinkinghuts.org/">an educational non-profit</a>, and{' '}
+              <a href="https://www.mimuw.edu.pl/en">a university</a> where I published an {" "} 
+              <a href = "https://ieeexplore.ieee.org/document/9555692">award-winning paper</a>. 
+              Currently, I am working as an undergraduate student researcher at the {" "}
+              <a href="http://web.cs.ucla.edu/~kwchang/members/">UCLA NLP Lab</a>, focusing on multi-lingual
+              language processing and language-agnostic systems. 
             </p>
-
             <p>
-              I also recently{' '}
-              <a href="https://www.newline.co/courses/build-a-spotify-connected-app">
-                launched a course
-              </a>{' '}
-              that covers everything you need to build a web app with the Spotify API using Node
-              &amp; React.
+              At UCLA, I'm a member of {" "}<a href="https://uas.seas.ucla.edu/">Unmaned Arial Systems</a>, 
+              developing a target-detection system for a fixed-wing plane. I am also a member of {" "}
+              <a href = "https://www.uclaacm.com/">ACM AI</a>, where I am building a text classification
+              system for insincere questions. 
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>

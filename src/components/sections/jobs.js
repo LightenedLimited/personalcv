@@ -141,6 +141,10 @@ const StyledTabPanel = styled.div`
   height: auto;
   padding: 10px 5px;
 
+  a {
+    color: var(--green);
+  }
+
   ul {
     ${({ theme }) => theme.mixins.fancyList};
   }

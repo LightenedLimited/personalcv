@@ -1,15 +1,15 @@
 ---
 date: '1'
-title: 'Halcyon Theme'
-cover: './halcyon.png'
-github: 'https://github.com/bchiang7/halcyon-site'
-external: 'https://halcyon-theme.netlify.com/'
+title: 'Rotation Variance in GCNs'
+cover: './paper.png'
+# external: 'https://ieeexplore.ieee.org/document/9555692/'
+cta: 'https://ieeexplore.ieee.org/document/9555692/'
 tech:
-  - VS Code
-  - Sublime Text
-  - Atom
-  - iTerm2
-  - Hyper
+  - Python
+  - PyTorch
+  - Tensorflow
+  - Latex
+  - Research
 ---
 
-A minimal, dark blue theme for VS Code, Sublime Text, Atom, iTerm, and more. Available on [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode), [Package Control](https://packagecontrol.io/packages/Halcyon%20Theme), [Atom Package Manager](https://atom.io/themes/halcyon-syntax), and [npm](https://www.npmjs.com/package/hyper-halcyon-theme).
+A project turned research paper regarding the impact of rotation on graph convolutional networks during object localization. Published and presented in [FedCSIS 2021](https://fedcsis.org/2021/), it was awarded the [Professor Zdzisław Pawlak Best Paper](https://fedcsis.org/2021/zp_award). 

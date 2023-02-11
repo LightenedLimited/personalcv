@@ -2,10 +2,10 @@ module.exports = {
   email: 'anhmac@g.ucla.edu',
 
   socialMedia: [
-    {
-      name: 'GitHub',
-      url: 'https://github.com/LightenedLimited',
-    },
+    // {
+    //   name: 'GitHub',
+    //   url: 'https://github.com/LightenedLimited',
+    // },
     {
       name: 'Linkedin',
       url: 'https://www.linkedin.com/in/anh-mac-1a63491b1/',
